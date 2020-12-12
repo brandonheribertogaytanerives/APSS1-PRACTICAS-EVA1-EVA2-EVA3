@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EVA1_9_IDIOMAS</string>
+
+    <string name="btn_es_español">Español</string>
+    <string name="btn_es_ingles">Ingles</string>
+    <string name="txt_es_nombre">Nombre</string>
+    <string name="txt_es_apellidos">Apellidos</string>
+    <string name="hint_es_nombre">Introduce tu nombre</string>
+    <string name="hint_es_apellido">Introdice  tus apellidos</string>
+    <string name="txt_es_sexo">Sexo:</string>
+    <string name="btn_es_mucho">Mucho</string>
+    <string name="btn_es_poco">Poco</string>
+    <string name="btn_es_nada">Nada</string>
+
+    <string name="btn_en_enpañol">Spanish</string>
+    <string name="btn_en_ingles">English</string>
+    <string name="txt_en_nombre">First name</string>
+    <string name="txt_en_apellidos">Last name</string>
+    <string name="hint_en_nombre">Your first name</string>
+    <string name="hint_en_apellido">Your last name</string>
+    <string name="txt_en_sexo">Sex</string>
+    <string name="btn_en_mucho">As a hollywood star</string>
+    <string name="btn_en_poco">As an engineer</string>
+    <string name="btn_en_nada">As an IT engineer</string>
+
+
+</resources>
